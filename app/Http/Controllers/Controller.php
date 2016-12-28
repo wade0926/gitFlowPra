@@ -13,4 +13,14 @@ class Controller extends BaseController
     // this is a bug
     // release 1.0.0
     // hard fix 2
+    // test push
+    public function diamond(){
+        /*
+         * todo: testing
+         */
+
+    function hiEveryOne()
+    {
+        return 'hihi 你們好233456777888';
+    }
 }
