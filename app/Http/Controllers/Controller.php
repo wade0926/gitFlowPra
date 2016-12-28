@@ -14,4 +14,9 @@ class Controller extends BaseController
     // release 1.0.0
     // hard fix 2
     // test push
+    public function diamond(){
+        /*
+         * todo: testing
+         */
+    }
 }
