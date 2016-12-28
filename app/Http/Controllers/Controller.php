@@ -18,5 +18,9 @@ class Controller extends BaseController
         /*
          * todo: testing
          */
+
+    function hiEveryOne()
+    {
+        return 'hihi 你們好';
     }
 }
