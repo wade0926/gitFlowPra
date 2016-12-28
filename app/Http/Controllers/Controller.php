@@ -21,6 +21,6 @@ class Controller extends BaseController
 
     function hiEveryOne()
     {
-        return 'hihi 你們好233456';
+        return 'hihi 你們好233456777';
     }
 }
