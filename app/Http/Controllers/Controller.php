@@ -11,4 +11,5 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     // this is a bug
+    // release 1.0.0
 }
