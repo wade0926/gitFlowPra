@@ -10,7 +10,7 @@
 | to using a Closure or controller method. Build something great!
 |
 */
-//wade test 2ttt
+//wade test 2ttt qqq
 
 
 Route::get('/', function () {
